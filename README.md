@@ -1,6 +1,10 @@
 # Forms
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
+## Objectif de ce project
+formulaire de deux manières : Template Driven Form (Définir en HTML vers TS) et en Reactive Forms (Définir en TS puis le lier en HTML).
+
+Le formulaire suit la logique (Inscription en une formation avec l'affichage des information de chaque formation ...).
 
 ## Development server
 
